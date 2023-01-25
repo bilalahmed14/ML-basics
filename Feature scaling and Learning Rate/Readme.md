@@ -1,4 +1,4 @@
-Feature scaling and Learning Rate (Multi-variable)
+## Feature scaling and Learning Rate (Multi-variable)
 
 
 Goals
